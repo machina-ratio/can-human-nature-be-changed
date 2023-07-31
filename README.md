@@ -9,6 +9,6 @@ _Reason:_ Need instructions from an expert.
 >**Answer:** No.<br>
 **Call to:** Expert<br>
 _Question:_ Should human nature be changed?<br>
-_Reason:_ The user is asking a question.<br>
+_Reason:_ To clarify the issue for the user who is asking a question.<br>
 ### branch 3:
 >**Answer:** Yes, human nature can be changed to some extent through personal growth, education, and experiences.
