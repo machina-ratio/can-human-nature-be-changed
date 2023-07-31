@@ -12,9 +12,3 @@ _Question:_ Should human nature be changed?<br>
 _Reason:_ The user is asking a question.<br>
 ### branch 3:
 >**Answer:** Yes.
-```
-code block
-    code block 2
-        another one
-```
-    This is an indented code block
