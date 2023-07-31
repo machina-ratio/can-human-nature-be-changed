@@ -11,7 +11,7 @@ _Reason:_ Need instructions from an expert.
 _Question:_ Should human nature be changed?<br>
 _Reason:_ The user is asking a question.<br>
 ### branch 3:
->**Answer:** Yes.<br>
+>**Answer:** Yes.
 ```
 code block
     code block 2
