@@ -14,7 +14,7 @@
 >**Answer:** Yes.<br>
 <br>
 <br>
-    a simple
-      code block
+```a simple
+      code block```
 <br>
 end
