@@ -1,4 +1,4 @@
-### Can human nature be changed?
+### Human nature
 **Human:** Can human nature be changed?
 ### branch 1:
 >**Answer:** Yes.<br>
