@@ -12,8 +12,8 @@
 >_Reason:_ The user is asking a question.<br>
 ### branch 3:
 >**Answer:** Yes.<br>
-    a simple
-      code block
-      this
-<br>
-end
+```
+code block
+    code block 2
+        another one
+```
