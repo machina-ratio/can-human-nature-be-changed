@@ -3,8 +3,7 @@
 ### branch 1:
 >**Answer:** Yes.<br>
 >**Call to:** Expert<br>
->_Question:_ How can we change human nature?<br>
->_Reason:_ Need instructions from an expert.<br>
+>    _Question:_ How can we change human nature? _Reason:_ Need instructions from an expert.<br>
 ### branch 2:
 >**Answer:** No.<br>
 >**Call to:** Expert<br>
