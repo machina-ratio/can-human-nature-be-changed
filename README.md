@@ -8,7 +8,7 @@
 ### branch 2:
 >**Answer:** No.<br>
 >**Call to:** Expert<br>
->_Question:_ Should we change human nature?<br>
+>_Question:_ Should human nature be changed?<br>
 >_Reason:_ The user is asking a question.<br>
 ### branch 3:
 >**Answer:** Yes.<br>
