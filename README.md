@@ -20,8 +20,8 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 		<th>Branch 3</th>
  	</tr>
  	<tr>
-  		<td><b></b>Answer:</b> Yes.</br>
-<b></b>Call to:</b> Expert</br>
+  		<td><b>Answer:</b> Yes.</br>
+<b>Call to:</b> Expert</br>
 <i>Question:</i> How can we change human nature?</br>
 <i>Reason:</i> Need instructions from an expert.</td>
    		<td></td>
@@ -29,18 +29,16 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
  	</tr>
 	<tr>
   		<td></td>
-   		<td></td>
-		<td><i>Question:<i> How can we change human nature?</td>
+   		<td><b>Answer:</b> No.<br>
+<b>Call to:</b> Expert<br>
+<i>Question:</i> Should human nature be changed?<br>
+<i>Reason:</i> To clarify the issue for the user who is asking a question.</td>
+		<td></td>
  	</tr>
 	<tr>
   		<td></td>
    		<td></td>
 		<td><b>Answer:</b> Yes, human nature can be changed to some extent through personal growth, education, and experiences.
 </td>
- 	</tr>
-	<tr>
-  		<td>April</td>
-   		<td>$400</td>
-		<td>$700</td>
  	</tr>
 </table>
