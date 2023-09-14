@@ -63,7 +63,7 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 <table width="100%">
 	<tr>
 		<td colspan="4" style="width: 100%"> 
-			<table width="100%">
+			<table style="width: 100%">
 				<tr>
 					<td width="33.33%">Branch 1</td>
 					<td width="33.33%">Branch 2</td>
