@@ -17,7 +17,7 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 	<tr>
 		<th width="25%">Branch 1</th>
 		<th width="25%"></th>
-		th width="25%">Branch 2</th>
+		<th width="25%">Branch 2</th>
 		<th width="25%">Branch 3</th>
  	</tr>
  	<tr>
@@ -29,7 +29,7 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 		<td width="25%"></td>
  	</tr>
 	<tr>
-  		<td width="25%"></td>
+  		<td colspan="1" width="25%"></td>
    		<td  colspan="2" style="width: 50%;"><b>Answer:</b> No.<br>
 <b>Call to:</b> Expert<br>
 <i>Question:</i> Should human nature be changed?<br>
