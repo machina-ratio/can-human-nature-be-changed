@@ -49,6 +49,9 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
    		<td width="25%"></td>
 		<td colspan="2" style="width: 50%;"><b>Answer:</b> Yes, human nature can be changed to some extent through personal growth, education, and experiences.</td>
  	</tr>
+	<tr>
+		<td colspan="4" style="background-color: lightgrey; width: 100%"> </td>
+	</tr>
 </table>
 
 | Branch 1 | Branch 2 | Branch 3|
