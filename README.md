@@ -15,9 +15,9 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 </br>
 <table>
 	<tr>
-		<th>Branch 1</th>
-		<th>Branch 2</th>
-		<th>Branch 3</th>
+		<th colspan="3" style="width: 33.33%;">Branch 1</th>
+		<th colspan="3" style="width: 33.33%;">Branch 2</th>
+		<th colspan="3" style="width: 33.33%;">Branch 3</th>
  	</tr>
  	<tr>
   		<td><b>Answer:</b> Yes.</br>
