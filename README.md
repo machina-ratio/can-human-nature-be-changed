@@ -32,6 +32,7 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
         }
     </style>
 </head>
+<body>
 <table>
 	<tr>
 		<th>Branch 1</th>
@@ -61,3 +62,4 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 </td>
  	</tr>
 </table>
+</body>
