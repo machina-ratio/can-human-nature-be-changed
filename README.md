@@ -21,14 +21,14 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
  	</tr>
  	<tr>
   		<td>January</td>
-   		<td> >**Answer:** Yes, human nature can be changed to some extent through personal growth, education, and experiences.
+   		<td><b>Answer:</b> Yes, human nature can be changed to some extent through personal growth, education, and experiences.
 </td>
 		<td>$900</td>
  	</tr>
 	<tr>
   		<td>July</td>
    		<td>$750</td>
-		<td>$1000</td>
+		<td> How can we change human nature?</td>
  	</tr>
 	<tr>
   		<td>December</td>
