@@ -15,9 +15,9 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 </br>
 <table width="100%">
 	<tr>
-		<th style="width:25%">Branch 1</th>
-		<th colspan="2" style="width: 50%">Branch 2</th>
-		<th width="25%">Branch 3</th>
+		<th style="text-align: right; width:25%">Branch 1</th>
+		<th colspan="2" style="text-align: center; width: 50%">Branch 2</th>
+		<th style="text-align: left; width:25%">Branch 3</th>
  	</tr>
 	<tr>
 		<td colspan="4" style="background-color: lightgrey; width: 100%"> </td>
