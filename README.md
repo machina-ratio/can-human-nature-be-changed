@@ -26,7 +26,7 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
   		<td colspan="2" style="border: 1px solid blue; width: 50%;"><b>Answer:</b> Yes.</br>
 <b>Call to:</b> Expert</br>
 <i>Question:</i> How can we change human nature?</br>
-<i>Reason:</i> Need instructions from an expert.`</td>
+<i>Reason:</i> Need instructions from an expert.</td>
    		<td style="background-color: lightgrey; width: 25%"> </td>
 		<td style="background-color: lightgrey; width: 25%"> </td>
  	</tr>
@@ -65,9 +65,9 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 		<td colspan="4" style="width: 100%"> 
 			<table width="100%">
 				<tr>
-					<td width=33.33%>Branch 1</td>
-					<td width=33.33%>Branch 2</td>
-					<td width=33.33%>Branch 3</td>
+					<td width="33.33%">Branch 1</td>
+					<td width="33.33%">Branch 2</td>
+					<td width="33.33%">Branch 3</td>
 				</tr>
 			</table>
 		</td>
