@@ -15,25 +15,28 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 </br>
 <table>
 	<tr>
-		<th>Month</th>
-		<th>Savings</th>
-		<th>Spending</th>
+		<th>Branch 1</th>
+		<th>Branch 2</th>
+		<th>Branch 3</th>
  	</tr>
  	<tr>
-  		<td>January</td>
-   		<td><b>Answer:</b> Yes, human nature can be changed to some extent through personal growth, education, and experiences.
-</td>
-		<td>$900</td>
+  		<td><b></b>Answer:</b> Yes.</br>
+<b></b>Call to:</b> Expert</br>
+<i>Question:</i> How can we change human nature?</br>
+<i>Reason:</i> Need instructions from an expert.</td>
+   		<td></td>
+		<td></td>
  	</tr>
 	<tr>
-  		<td>July</td>
-   		<td>$750</td>
+  		<td></td>
+   		<td></td>
 		<td><i>Question:<i> How can we change human nature?</td>
  	</tr>
 	<tr>
-  		<td>December</td>
-   		<td>$250</td>
-		<td>$300</td>
+  		<td></td>
+   		<td></td>
+		<td><b>Answer:</b> Yes, human nature can be changed to some extent through personal growth, education, and experiences.
+</td>
  	</tr>
 	<tr>
   		<td>April</td>
