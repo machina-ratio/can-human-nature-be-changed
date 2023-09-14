@@ -15,7 +15,7 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 </br>
 <table width="100%">
 	<tr>
-		<th width="25%">Branch 1</th>
+		<th style="background-color:powderblue;" width="25%">Branch 1</th>
 		<th colspan="2" style="background-color: #0000ff; width: 50%">Branch 2</th>
 		<th width="25%">Branch 3</th>
  	</tr>
