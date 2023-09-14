@@ -13,6 +13,23 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 ### branch 3:
 >**Answer:** Yes, human nature can be changed to some extent through personal growth, education, and experiences.
 </br>
+<style>
+        table {
+            width: 100%; /* Make the table occupy the full page width */
+            border-collapse: collapse;
+        }
+
+        th, td {
+            width: 33.33%; /* Each column takes up one-third of the table width */
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+</style>
 <table>
 	<tr>
 		<th>Branch 1</th>
