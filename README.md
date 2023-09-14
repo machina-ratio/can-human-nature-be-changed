@@ -15,12 +15,13 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 </br>
 <table width="100%">
 	<tr>
-		<th width="33.33%">Branch 1</th>
-		<th width="33.33%">Branch 2</th>
-		<th width="33.33%">Branch 3</th>
+		<th width="25%">Branch 1</th>
+		<th width="25%"></th>
+		th width="25%">Branch 2</th>
+		<th width="25%">Branch 3</th>
  	</tr>
  	<tr>
-  		<td width="50%"><b>Answer:</b> Yes.</br>
+  		<td colspan="2" style="width: 50%;"><b>Answer:</b> Yes.</br>
 <b>Call to:</b> Expert</br>
 <i>Question:</i> How can we change human nature?</br>
 <i>Reason:</i> Need instructions from an expert.</td>
@@ -29,7 +30,7 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
  	</tr>
 	<tr>
   		<td width="25%"></td>
-   		<td width="50%"><b>Answer:</b> No.<br>
+   		<td  colspan="2" style="width: 50%;"><b>Answer:</b> No.<br>
 <b>Call to:</b> Expert<br>
 <i>Question:</i> Should human nature be changed?<br>
 <i>Reason:</i> To clarify the issue for the user who is asking a question.</td>
@@ -38,7 +39,7 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 	<tr>
   		<td width="25%"></td>
    		<td width="25%"></td>
-		<td width="50%"><b>Answer:</b> Yes, human nature can be changed to some extent through personal growth, education, and experiences.</td>
+		<td colspan="2" style="width: 50%;"><b>Answer:</b> Yes, human nature can be changed to some extent through personal growth, education, and experiences.</td>
  	</tr>
 </table>
 
