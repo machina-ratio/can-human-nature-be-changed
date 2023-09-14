@@ -20,12 +20,12 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 		<th>Branch 3</th>
  	</tr>
  	<tr>
-  		<td  colspan="3" style="width: 33.33%;"><b>Answer:</b> Yes.</br>
+  		<td><b>Answer:</b> Yes.</br>
 <b>Call to:</b> Expert</br>
 <i>Question:</i> How can we change human nature?</br>
 <i>Reason:</i> Need instructions from an expert.</td>
-   		<td colspan="3" style="width: 33.33%;"></td>
-		<td colspan="3" style="width: 33.33%;"></td>
+   		<td></td>
+		<td></td>
  	</tr>
 	<tr>
   		<td></td>
