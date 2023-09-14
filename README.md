@@ -19,6 +19,9 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 		<th colspan="2" style="width: 50%">Branch 2</th>
 		<th width="25%">Branch 3</th>
  	</tr>
+	<tr>
+		<td colspan="4" style="width: 100%"></td>
+	</tr>
  	<tr>
   		<td colspan="2" style="width: 50%;"><b>Answer:</b> Yes.</br>
 <b>Call to:</b> Expert</br>
