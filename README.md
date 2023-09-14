@@ -27,8 +27,8 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 <b>Call to:</b> Expert</br>
 <i>Question:</i> How can we change human nature?</br>
 <i>Reason:</i> Need instructions from an expert.</td>
-   		<td style="background-color: lightgrey; width: 25%"></td>
-		<td style="background-color: lightgrey; width: 25%"></td>
+   		<td style="background-color: lightgrey; width: 25%"> </td>
+		<td style="background-color: lightgrey; width: 25%"> </td>
  	</tr>
 	<tr>
 		<td colspan="4" style="width: 100%"> </td>
