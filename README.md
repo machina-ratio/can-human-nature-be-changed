@@ -13,7 +13,8 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 ### branch 3:
 >**Answer:** Yes, human nature can be changed to some extent through personal growth, education, and experiences.
 </br>
-<style>
+<head>
+    <style>
         table {
             width: 100%; /* Make the table occupy the full page width */
             border-collapse: collapse;
@@ -29,7 +30,8 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
         tr:nth-child(even) {
             background-color: #f2f2f2;
         }
-</style>
+    </style>
+</head>
 <table>
 	<tr>
 		<th>Branch 1</th>
