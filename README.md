@@ -65,9 +65,9 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 		<td colspan="4" style="width: 100%"> 
 			<table style="width: 100%">
 				<tr>
-					<td width="33.33%">Branch 1</td>
-					<td width="33.33%">Branch 2</td>
-					<td width="33.33%">Branch 3</td>
+					<th width="33.33%">Branch 1</th>
+					<th width="33.33%">Branch 2</th>
+					<th width="33.33%">Branch 3</th>
 				</tr>
 			</table>
 		</td>
