@@ -13,31 +13,11 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 ### branch 3:
 >**Answer:** Yes, human nature can be changed to some extent through personal growth, education, and experiences.
 </br>
-<head>
-    <style>
-        table {
-            width: 100%; /* Make the table occupy the full page width */
-            border-collapse: collapse;
-        }
-
-        th, td {
-            width: 33.33%; /* Each column takes up one-third of the table width */
-            border: 1px solid #dddddd;
-            text-align: left;
-            padding: 8px;
-        }
-
-        tr:nth-child(even) {
-            background-color: #f2f2f2;
-        }
-    </style>
-</head>
-<body>
-<table>
+<table width="100%">
 	<tr>
-		<th>Branch 1</th>
-		<th>Branch 2</th>
-		<th>Branch 3</th>
+		<th width="33.33%">Branch 1</th>
+		<th width="33.33%">Branch 2</th>
+		<th width="33.33%">Branch 3</th>
  	</tr>
  	<tr>
   		<td><b>Answer:</b> Yes.</br>
@@ -58,8 +38,7 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 	<tr>
   		<td></td>
    		<td></td>
-		<td><b>Answer:</b> Yes, human nature can be changed to some extent through personal growth, education, and experiences.
-</td>
+		<td><b>Answer:</b> Yes, human nature can be changed to some extent through personal growth, education, and experiences.</td>
  	</tr>
 </table>
-</body>
+
