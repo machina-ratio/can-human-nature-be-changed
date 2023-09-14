@@ -28,7 +28,7 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 	<tr>
   		<td>July</td>
    		<td>$750</td>
-		<td> How can we change human nature?</td>
+		<td><i>Question:<i> How can we change human nature?</td>
  	</tr>
 	<tr>
   		<td>December</td>
