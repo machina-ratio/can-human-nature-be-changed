@@ -15,15 +15,15 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 </br>
 <table width="100%">
 	<tr>
-		<th style="background-color:powderblue;" width="25%">Branch 1</th>
-		<th colspan="2" style="background-color: #0000ff; width: 50%">Branch 2</th>
+		<th style="width:25%">Branch 1</th>
+		<th colspan="2" style="width: 50%">Branch 2</th>
 		<th width="25%">Branch 3</th>
  	</tr>
 	<tr>
 		<td colspan="4" style="background-color: lightgrey; width: 100%"> </td>
 	</tr>
  	<tr>
-  		<td colspan="2" style="border: 1px solid black; width: 50%;"><b>Answer:</b> Yes.</br>
+  		<td colspan="2" style="border: 1px solid blue; width: 50%;"><b>Answer:</b> Yes.</br>
 <b>Call to:</b> Expert</br>
 <i>Question:</i> How can we change human nature?</br>
 <i>Reason:</i> Need instructions from an expert.</td>
