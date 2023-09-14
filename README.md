@@ -15,17 +15,17 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 </br>
 <table>
 	<tr>
-		<th colspan="3" style="width: 33.33%;">Branch 1</th>
-		<th colspan="3" style="width: 33.33%;">Branch 2</th>
-		<th colspan="3" style="width: 33.33%;">Branch 3</th>
+		<th>Branch 1</th>
+		<th>Branch 2</th>
+		<th>Branch 3</th>
  	</tr>
  	<tr>
-  		<td><b>Answer:</b> Yes.</br>
+  		<td  colspan="3" style="width: 33.33%;"><b>Answer:</b> Yes.</br>
 <b>Call to:</b> Expert</br>
 <i>Question:</i> How can we change human nature?</br>
 <i>Reason:</i> Need instructions from an expert.</td>
-   		<td></td>
-		<td></td>
+   		<td colspan="3" style="width: 33.33%;"></td>
+		<td colspan="3" style="width: 33.33%;"></td>
  	</tr>
 	<tr>
   		<td></td>
