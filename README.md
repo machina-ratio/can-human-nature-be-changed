@@ -95,14 +95,16 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 	</tr>
 	<tr>
   		<td colspan="2" width="33.33%"></td>
-		<td colspan="3" style="width: 50%;"><b>Answer:</b> It is unknown</br>, human nature can be changed to some extent through personal growth, education, and experiences.</td>
+		<td colspan="3" style="width: 50%;"><b>Answer:</b> It is unknown,</br> human nature can be changed to some extent through personal growth, education, and experiences.</td>
 		<td colspan="1" width="16.67%"></td>
  	</tr>
 	<tr>
 		<td colspan="6" style="background-color: lightgrey; width: 100%"> </td>
 	</tr>
 	<tr>
-   		<td colspan="3" width: "50%"> </td>
+   		<td style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td style="background-color: lightgrey; width: 16.67%%"> </td>
 		<td colspan="3" style="border: 1px solid blue; width: 50%;"><b>Answer:</b> It is unknowable.</br> From what we know it is impossible to tell wheter we know enough.</td>
 	</tr>
 	<tr>
