@@ -95,7 +95,7 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 	</tr>
 	<tr>
   		<td colspan="2" width="33.33%"></td>
-		<td colspan="3" style="width: 50%;"><b>Answer:</b> Yes, human nature can be changed to some extent through personal growth, education, and experiences.</td>
+		<td colspan="3" style="width: 50%;"><b>Answer:</b> It is unknown</br>, human nature can be changed to some extent through personal growth, education, and experiences.</td>
 		<td colspan="1" width="16.67%"></td>
  	</tr>
 	<tr>
