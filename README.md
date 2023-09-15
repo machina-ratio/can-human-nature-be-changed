@@ -62,48 +62,50 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 
 <table width="100%">
 	<tr>
-		<td colspan="4" style="width: 100%"> 
-			<table style="width: 100%">
-				<tr>
-					<th width="33.33%">Branch 1</th>
-					<th width="33.33%">Branch 2</th>
-					<th width="33.33%">Branch 3</th>
-				</tr>
-			</table>
-		</td>
+		<th colspan="2" style="width: 33.33%">Yes</th>
+		<th colspan="2" style="width: 33.33%">No</th>
+		<th colspan="1" style="width: 16.67%">Yes</th>
+		<th colspan="1" style="width: 16.67%">Yes</th>
  	</tr>
 	<tr>
-		<td colspan="4" style="background-color: lightgrey; width: 100%"> </td>
+		<td colspan="5" style="background-color: lightgrey; width: 100%"> </td>
 	</tr>
  	<tr>
-  		<td colspan="2" style="border: 1px solid blue; width: 50%;"><b>Answer:</b> Yes.</br>
+  		<td colspan="3" style="border: 1px solid blue; width: 50%;"><b>Answer:</b> Yes.</br>
 <b>Call to:</b> Expert</br>
 <i>Question:</i> How can we change human nature?</br>
 <i>Reason:</i> Need instructions from an expert.`</td>
-   		<td style="background-color: lightgrey; width: 25%"> </td>
-		<td style="background-color: lightgrey; width: 25%"> </td>
+   		<td style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td style="background-color: lightgrey; width: 16.67%%"> </td>
  	</tr>
 	<tr>
-		<td colspan="4" style="width: 100%"> </td>
+		<td colspan="6" style="width: 100%"> </td>
 	</tr>
 	<tr>
-  		<td colspan="1" width="25%"></td>
-   		<td  colspan="2" style="width: 50%;"><b>Answer:</b> No.<br>
+  		<td colspan="1" width="16.67%"></td>
+   		<td  colspan="3" style="width: 50%;"><b>Answer:</b> No.<br>
 <b>Call to:</b> Expert<br>
 <i>Question:</i> Should human nature be changed?<br>
 <i>Reason:</i> To clarify the issue for the user who is asking a question.</td>
-		<td width="25%"></td>
+		<td colspan="2" width="33.33%"></td>
  	</tr>
 	<tr>
-		<td colspan="4" style="width: 100%"> </td>
+		<td colspan="6" style="width: 100%"> </td>
 	</tr>
 	<tr>
-  		<td width="25%"></td>
-   		<td width="25%"></td>
-		<td colspan="2" style="width: 50%;"><b>Answer:</b> Yes, human nature can be changed to some extent through personal growth, education, and experiences.</td>
+  		<td colspan="2" width="33.33%"></td>
+		<td colspan="3" style="width: 50%;"><b>Answer:</b> Yes, human nature can be changed to some extent through personal growth, education, and experiences.</td>
+		<td colspan="1" width="16.67%"></td>
  	</tr>
 	<tr>
-		<td colspan="4" style="background-color: lightgrey; width: 100%"> </td>
+		<td colspan="6" style="background-color: lightgrey; width: 100%"> </td>
+	</tr>
+	<tr>
+   		<td style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td colspan="3" style="border: 1px solid blue; width: 50%;"><b>Answer:</b> It is unknowable.</br> From what we know it is impossible to tell wheter we know enough.</td>
 	</tr>
 </table>
 
