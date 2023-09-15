@@ -67,7 +67,7 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 		<th colspan="1" style="width: 16.67%">No</th>
 		<th colspan="1" style="width: 16.67%"></th>
 		<th colspan="1" style="width: 16.67%">Unknown</th>
-		<th colspan="2" style="width: 16.67%">Unknowable</th>
+		<th colspan="1" style="width: 16.67%">Unknowable</th>
  	</tr>
 	<tr>
 		<td colspan="6" style="background-color: lightgrey; width: 100%"> </td>
