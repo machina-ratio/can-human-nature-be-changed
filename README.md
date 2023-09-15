@@ -54,12 +54,6 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 	</tr>
 </table>
 
-| Branch 1 | Branch 2 | Branch 3|
-| --- | --- | --- |
-| **Answer:** Yes.</br>**Call to:** Expert</br>_Question:_ How can we change human nature?</br>_Reason:_ Need instructions from an expert. |||
-||**Answer:** No.<br>**Call to:** Expert<br>_Question:_ Should human nature be changed?<br>_Reason:_ To clarify the issue for the user who is asking a question.||
-|||**Answer:** Yes, human `nature` can be changed to some extent through personal growth, education, and experiences.|
-
 <table width="100%">
 	<tr>
 		<th colspan="1" width="16.67%">Yes</th>
