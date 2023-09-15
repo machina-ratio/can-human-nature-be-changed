@@ -63,9 +63,11 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 <table width="100%">
 	<tr>
 		<th colspan="1" style="width: 16.67%">Yes</th>
-		<th colspan="2" style="width: 33.33%">No</th>
+		<th colspan="1" style="width: 16.67%"></th>
+		<th colspan="1" style="width: 16.67%">No</th>
+		<th colspan="1" style="width: 16.67%"></th>
 		<th colspan="1" style="width: 16.67%">Unknown</th>
-		<th colspan="2" style="width: 33.33%">Unknowable</th>
+		<th colspan="2" style="width: 16.67%">Unknowable</th>
  	</tr>
 	<tr>
 		<td colspan="6" style="background-color: lightgrey; width: 100%"> </td>
@@ -75,38 +77,38 @@ _Reason:_ To clarify the issue for the user who is asking a question.<br>
 <b>Call to:</b> Expert</br>
 <i>Question:</i> How can we change human nature?</br>
 <i>Reason:</i> Need instructions from an expert.`</td>
-   		<td style="background-color: lightgrey; width: 16.67%%"> </td>
-		<td style="background-color: lightgrey; width: 16.67%%"> </td>
-		<td style="background-color: lightgrey; width: 16.67%%"> </td>
+   		<td colspan="1" style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td colspan="1" style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td colspan="1" style="background-color: lightgrey; width: 16.67%%"> </td>
  	</tr>
 	<tr>
 		<td colspan="6" style="width: 100%"> </td>
 	</tr>
 	<tr>
-  		<td style="background-color: lightgrey; width: 16.67%%"> </td>
+  		<td colspan="1" style="background-color: lightgrey; width: 16.67%%"> </td>
    		<td  colspan="3" style="width: 50%;"><b>Answer:</b> No.<br>
 <b>Call to:</b> Expert<br>
 <i>Question:</i> Should human nature be changed?<br>
 <i>Reason:</i> To clarify the issue for the user who is asking a question.</td>
-		<td style="background-color: lightgrey; width: 16.67%%"> </td>
-		<td style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td colspan="1" style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td colspan="1" style="background-color: lightgrey; width: 16.67%%"> </td>
  	</tr>
 	<tr>
 		<td colspan="6" style="width: 100%"> </td>
 	</tr>
 	<tr>
-  		<td style="background-color: lightgrey; width: 16.67%%"> </td>
-		<td style="background-color: lightgrey; width: 16.67%%"> </td>
+  		<td colspan="1" style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td colspan="1" style="background-color: lightgrey; width: 16.67%%"> </td>
 		<td colspan="3" style="width: 50%;"><b>Answer:</b> It is unknown,</br> human nature can be changed to some extent through personal growth, education, and experiences.</td>
-		<td style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td colspan="1" style="background-color: lightgrey; width: 16.67%%"> </td>
  	</tr>
 	<tr>
 		<td colspan="6" style="background-color: lightgrey; width: 100%"> </td>
 	</tr>
 	<tr>
-   		<td style="background-color: lightgrey; width: 16.67%%"> </td>
-		<td style="background-color: lightgrey; width: 16.67%%"> </td>
-		<td style="background-color: lightgrey; width: 16.67%%"> </td>
+   		<td colspan="1" style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td colspan="1" style="background-color: lightgrey; width: 16.67%%"> </td>
+		<td colspan="1" style="background-color: lightgrey; width: 16.67%%"> </td>
 		<td colspan="3" style="border: 1px solid blue; width: 50%;"><b>Answer:</b> It is unknowable.</br> From what we know it is impossible to tell wheter we know enough.</td>
 	</tr>
 	<tr>
